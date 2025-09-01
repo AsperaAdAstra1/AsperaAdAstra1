@@ -1,3 +1,8 @@
+<p align="center">
+  <em>he/him • Rio de Janeiro • Developer & Dreamer</em>
+</p>
+
+
 # 🚀 Welcome to my Profile!
 
 
@@ -20,7 +25,7 @@ Here you'll find my adventures in coding, from first steps in Python to future c
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-marinho-231629206/)
 - 💻 [Portfólio](https://seusite.com)
-- 📧 Email: seu@email.com
+- 📧 Email: jpsmarinho@hotmail.com.br
 
 ---
 "Shines like a star, hits like a meteor. 🚀✨" 
