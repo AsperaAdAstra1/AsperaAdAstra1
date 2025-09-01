@@ -15,6 +15,12 @@ Here you'll find my adventures in coding, from first steps in Python to future c
 - Example codes, exercises, and project ideas.
 - Notes, tips, and things I learn along the way.
 - Progress as I grow and explore new areas.
+
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-marinho-231629206/)
+- 💻 [Portfólio](https://seusite.com)
+- 📧 Email: seu@email.com
+
 ---
 "Shines like a star, hits like a meteor. 🚀✨" 
-
