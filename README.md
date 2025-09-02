@@ -22,7 +22,8 @@ Here you'll find my adventures in coding, from first steps in Python to future c
 - Progress as I grow and explore new areas.
 
 
-## 📫 Onde me encontrar
+## 📫 Onde me encontrar- 
+- 🪙 [Patreon](patreon.com/AsperaAdAstra1)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-marinho-231629206/)
 - 💻 [Portfólio](https://seusite.com)
 - 📧 Email: jpsmarinho@hotmail.com.br
