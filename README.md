@@ -28,5 +28,7 @@ Here you'll find my adventures in coding, from first steps in Python to future c
 - 💻 [Portfólio](https://seusite.com)
 - 📧 Email: jpsmarinho@hotmail.com.br
 
+### Apoiadores Oficiais
+- [Nome do Apoiador 1🔥](https://seusite.com)
 ---
 "Shines like a star, hits like a meteor. 🚀✨" 
