@@ -11,7 +11,7 @@ Here you'll find my adventures in coding, from first steps in Python to future c
 
 ## 👾 About me
 - 🧑‍💻 New to programming and always curious.
-- 🎯 Focused on learning Python and problem solving.
+- 🎯 Focused on learning Python, JavaScript and problem solving.
 - 📚 Sharing my progress, experiments, and small projects.
 - 🌟 Open to connect, collaborate, and learn together!
 
