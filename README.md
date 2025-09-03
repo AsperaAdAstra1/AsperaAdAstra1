@@ -22,13 +22,13 @@ Here you'll find my adventures in coding, from first steps in Python to future c
 - Progress as I grow and explore new areas.
 
 
-## 📫 Onde me encontrar 
+## 📫 Where to find me?
 - 🪙 [Patreon](patreon.com/AsperaAdAstra1)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-marinho-231629206/)
 - 💻 [Portfólio](https://seusite.com)
 - 📧 Email: jpsmarinho@hotmail.com.br
 
-### Apoiadores Oficiais
+### Official Supporters⭐🚀
 - [no one yet 🔥](https://seusite.com)
 ---
 "Shines like a star, hits like a meteor. 🚀✨" 
