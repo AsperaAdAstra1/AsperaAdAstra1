@@ -1,5 +1,5 @@
 <p align="center">
-  <em>he/him • Rio de Janeiro • Developer & Dreamer</em>
+  <em>he/him • Rio de Janeiro • Developer & Student</em>
 </p>
 
 
