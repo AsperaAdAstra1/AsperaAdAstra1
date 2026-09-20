@@ -7,10 +7,10 @@
 
 
 Hi! I'm Astra_ and this is my special corner on GitHub.  
-Here you'll find my adventures in coding, from first steps in Python to future challenges and discoveries.
+Here you'll find my projects in coding, challenges and discoveries.
 
 ## 👾 About me
-- 🧑‍💻 New to programming and always curious.
+- 🧑‍💻 Industrial Automation Student & Python Developer.
 - 🎯 Focused on learning Python and problem solving.
 - 📚 Sharing my progress, experiments, and small projects.
 - 🌟 Open to connect, collaborate, and learn together!
